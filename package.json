@@ -1,6 +1,6 @@
 {
   "name": "gh-deets",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple GitHub cli tool that gets details of a GitHub account",
   "main": "main.js",
   "bin": {
