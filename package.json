@@ -1,0 +1,15 @@
+{
+  "name": "gh-deets",
+  "version": "1.0.0",
+  "description": "A simple GitHub cli tool that gets details of a GitHub account",
+  "main": "main.js",
+  "bin": {
+    "gh-deets": "./main.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Tobiloba Odukoya",
+  "license": "ISC"
+}
