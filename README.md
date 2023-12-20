@@ -7,7 +7,7 @@ A simple command-line interface (CLI) tool to retrieve details of a GitHub accou
 1. [Installation](#installation)
 2. [Usage](#usage)
 3. [Example](#example)
-4. [Error Handling](#error_handling)
+4. [Error Handling](#error-handling)
 5. [Credits](#credits)
 
 ## Installation
