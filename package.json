@@ -1,6 +1,6 @@
 {
   "name": "gh-deets",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple GitHub cli tool that gets details of a GitHub account",
   "main": "main.js",
   "bin": {
@@ -8,6 +8,10 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TPriince/gh-deets.git"
   },
   "keywords": [],
   "author": "Tobiloba Odukoya",
