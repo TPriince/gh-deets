@@ -32,7 +32,7 @@ Replace <GitHub-Username> with the desired GitHub username.
 ## Example
 
 ```shell
-github-cli octocat
+gh-deets octocat
 ```
 
 Output:
